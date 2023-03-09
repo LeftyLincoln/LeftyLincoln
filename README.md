@@ -32,5 +32,7 @@ hobbies: ["Camping", "Travel", "Wood Working", "Espresso"]
   
 
 
-![Travis Parks Stats](https://github-readme-stats.vercel.app/api?username=LeftyLincoln&show_icons=true&theme=gradient)
+![Travis Parks Stats](https://github-readme-stats.vercel.app/api?username=LeftyLincoln&show_icons=true&theme=dark)
 [![Travis Parks Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=LeftyLincoln&layout=compact)](https://github.com/LeftyLincoln/github-readme-stats)
+
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=LeftyLincoln.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors)
