@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-![Travis Parks Stats](https://github-readme-stats.vercel.app/api?username=LeftyLincoln&show_icons=true&theme=dark)
-![Travis Parks Languages](https://github-readme-stats.vercel.app/api?username=LeftyLincoln&show_icons=true&theme=dark)
+![Travis Parks Stats](https://github-readme-stats.vercel.app/api?username=LeftyLincoln&show_icons=true&theme=gradient)
+[![Travis Parks Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=LeftyLincoln&layout=compact)](https://github.com/LeftyLincoln/github-readme-stats)
 
-![Snake animation](https://github.com/LeftyLincoln/LeftyLincoln/blob/output/github-contribution-grid-snake.svg)
