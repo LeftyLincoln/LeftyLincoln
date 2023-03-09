@@ -12,6 +12,7 @@
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
 ```yaml
+{
 name: Travis Parks
 located: Boston, MA
 education:
@@ -23,6 +24,7 @@ education:
 currently_learning: ["React, Typescript, Cypress"]
 2023 Goals: ["Enter Software Development Industry", ""]
 hobbies: ["Camping", "Travel", "Wood Working", "Espresso"]
+}
 ```
   
 
