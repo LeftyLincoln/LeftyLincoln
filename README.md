@@ -1,4 +1,4 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=300&section=header&text=Hello%World!&fontSize=90)
 
 <!--
 **LeftyLincoln/LeftyLincoln** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![Travis Parks Stats](https://github-readme-stats.vercel.app/api?username=LeftyLincoln&show_icons=true&theme=dark)
+![Travis Parks Languages](https://github-readme-stats.vercel.app/api?username=LeftyLincoln&show_icons=true&theme=dark)
+
+![Snake animation](https://github.com/LeftyLincoln/LeftyLincoln/blob/output/github-contribution-grid-snake.svg)
