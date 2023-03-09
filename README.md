@@ -3,17 +3,25 @@
 <!--
 **LeftyLincoln/LeftyLincoln** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```yaml
+name: Travis Parks
+located_in: Boston, MA
+education:
+  [
+    "Front End Devloper from Turing School of Software and Development ",
+    "Bachelor's of Science in Marketing and PGA Class A Golf Professional ",
+  ]
+fields_of_interests:
+  [
+    "Web Development",
+    "UI/UX"
+  ]
+  
+currently_learning: ["React, Typescript, Cypress"]
+2023 Goals: ["Learn 3 new languages", "Enter Software Development Industry"]
+hobbies: ["Camping", "Travel", "Wood Working", "Espresso"]
+```
+  
 
 
 ![Travis Parks Stats](https://github-readme-stats.vercel.app/api?username=LeftyLincoln&show_icons=true&theme=gradient)
