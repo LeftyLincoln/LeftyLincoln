@@ -1,3 +1,4 @@
+  <p>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
 </p>
 
@@ -33,3 +34,7 @@ hobbies: ["Camping", "Travel", "Wood Working", "Espresso"]
 [![Travis Parks Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=LeftyLincoln&layout=compact)](https://github.com/LeftyLincoln/github-readme-stats)
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=LeftyLincoln.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors)
+
+  <p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Goodbye!&height=100&section=footer"/>
+</p>
