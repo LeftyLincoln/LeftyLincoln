@@ -13,18 +13,13 @@
 
 ```yaml
 name: Travis Parks
-located_in: Boston, MA
+located: Boston, MA
 education:
   [
     "Front End Devloper from Turing School of Software and Development ",
     "Bachelor's of Science in Marketing and PGA Class A Golf Professional ",
   ]
-fields_of_interests:
-  [
-    "Web Development",
-    "UI/UX"
-  ]
-  
+ 
 currently_learning: ["React, Typescript, Cypress"]
 2023 Goals: ["Enter Software Development Industry", ""]
 hobbies: ["Camping", "Travel", "Wood Working", "Espresso"]
