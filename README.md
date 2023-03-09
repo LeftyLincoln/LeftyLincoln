@@ -1,7 +1,15 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=300&section=header&text=Hello%World!&fontSize=90)
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+</p>
 
-<!--
-**LeftyLincoln/LeftyLincoln** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+  Let's Connect and have a Chat! 💬
+</h1>
+
+<p align="center">
+  <img src= "https://media2.giphy.com/media/AIGF7ljcNKZI4/200w.webp?cid=ecf05e470mulre0ipsjatj4anax6uehl35pt43ru9zjlrd4d&rid=200w.webp&ct=g">
+</p>
+
+<h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
 ```yaml
 name: Travis Parks
@@ -18,7 +26,7 @@ fields_of_interests:
   ]
   
 currently_learning: ["React, Typescript, Cypress"]
-2023 Goals: ["Learn 3 new languages", "Enter Software Development Industry"]
+2023 Goals: ["Enter Software Development Industry", ""]
 hobbies: ["Camping", "Travel", "Wood Working", "Espresso"]
 ```
   
@@ -26,4 +34,3 @@ hobbies: ["Camping", "Travel", "Wood Working", "Espresso"]
 
 ![Travis Parks Stats](https://github-readme-stats.vercel.app/api?username=LeftyLincoln&show_icons=true&theme=gradient)
 [![Travis Parks Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=LeftyLincoln&layout=compact)](https://github.com/LeftyLincoln/github-readme-stats)
-
