@@ -32,8 +32,31 @@ hobbies: ["Camping", "Travel", "Wood Working", "Espresso"]
 ![Travis Parks Stats](https://github-readme-stats.vercel.app/api?username=LeftyLincoln&show_icons=true&theme=dark)
 [![Travis Parks Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=LeftyLincoln&layout=compact)](https://github.com/LeftyLincoln/github-readme-stats)
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=LeftyLincoln.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors)
+## Languages:
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
-  <p align="center">
+## Frameworks/Libraries/Testing:
+<p>
+  <img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Chai-A30701?style=for-the-badge&logo=chai&logoColor=white"/>
+</p>
+
+## Tools:
+<p>
+  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-222222.svg?&style=for-the-badge&logo=gnubash&logoColor=43CF0B"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Slack-4A154B.svg?&style=for-the-badge&logo=slack&logoColor=white"/>
+</p>
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=PleaseComeAgain!&height=100&section=footer"/>
 </p>
+
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=LeftyLincoln.visitor-badge&left_color=yellow&right_color=green&left_text=Hello%20Visitors)
