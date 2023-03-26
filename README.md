@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  <img src= "https://media2.giphy.com/media/AIGF7ljcNKZI4/200w.webp?cid=ecf05e470mulre0ipsjatj4anax6uehl35pt43ru9zjlrd4d&rid=200w.webp&ct=g">
+  <img width="450px" height="275px"src= "https://media2.giphy.com/media/AIGF7ljcNKZI4/200w.webp?cid=ecf05e470mulre0ipsjatj4anax6uehl35pt43ru9zjlrd4d&rid=200w.webp&ct=g">
 </p>
 
 <h2 align="center"> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
@@ -56,7 +56,5 @@ hobbies: ["Camping", "Travel", "Wood Working", "Espresso"]
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=PleaseComeAgain!&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&text=Goodbye!!&height=100&section=footer"/>
 </p>
-
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=LeftyLincoln.visitor-badge&left_color=yellow&right_color=green&left_text=Hello%20Visitors)
