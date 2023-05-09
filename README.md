@@ -22,7 +22,7 @@ education:
     "Bachelor's of Science in Marketing and PGA Class A Golf Professional ",
   ]
  
-currently_learning: ["React, Typescript, Cypress"]
+currently_learning: ["React, GraphQL, Cypress"]
 2023 Goals: ["Enter Software Development Industry"]
 hobbies: ["Camping", "Travel", "Wood Working", "Espresso"]
 }
